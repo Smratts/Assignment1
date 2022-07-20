@@ -7,5 +7,4 @@ char *name2="SDR";
 printf ("Before swap");
 printf("name1=%s :\n", name1);
 printf("name2=%s :\n", name2);
- 
 }
